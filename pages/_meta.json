@@ -1,7 +1,9 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "drivers": "Installing drivers",
+  "technical": "Technical Overview",
+  "products": "Products Offered",
+  "uses" : "Explored Use Cases",
   "about": {
     "title": "About",
     "type": "page"
